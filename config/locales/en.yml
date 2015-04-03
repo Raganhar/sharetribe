@@ -14,6 +14,10 @@ en:
         cancel: "Cancel"
         update_success: "Changes to order type '%{shape}' saved"
         update_failure: "Something went wrong. Could not save changes."
+      new:
+        create_listing_shape: "New order type"
+        create: "Create order type"
+        cancel: "Cancel"
       listing_shape_name: "Name"
       listing_shape_name_desc: "This is the order type name identifying this order type in order type selection when user posts a new listing."
       action_button_label: "Checkout button label"
